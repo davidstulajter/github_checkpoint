@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I'm in master
+=======
+Im in new_grocery_list
+>>>>>>> new_grocery_list
